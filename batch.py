@@ -1,5 +1,8 @@
 """
 batch.py provides an example scheduler for BLAKE3.
+
+Written by Richard Patel <ripatel@jumptrading.com> for the Firedancer project:
+https://github.com/firedancer-io/firedancer
 """
 
 from dataclasses import dataclass
